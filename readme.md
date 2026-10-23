@@ -1,3 +1,9 @@
+## 🚀 Live Demo
+
+**[Launch NCR Price Predictor](https://ncr-price-predictor-xpe96afnkpyvtasnh4xvry.streamlit.app/)**
+
+Try the live machine learning app to estimate property prices in the NCR region.
+
 # NCR Price Predictor
 
 A machine-learning project for estimating residential property prices in Gurgaon (Gurugram), India, using property characteristics such as area, BHK count, locality, society, status, flat type, builder/company information, and RERA approval.

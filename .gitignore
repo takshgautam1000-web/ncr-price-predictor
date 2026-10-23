@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+notebooks/feature_columns.pkl
+notebooks/house_price_model.pkl
+notebooks/processed_house_data.csv
+data/raw/
+notebooks/processed_house_data.csv
